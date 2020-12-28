@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Weather</title>
+    <link rel="icon" href="/img/weather1.png">
+    {{!-- <link rel="icon" href="/web-server/public/img/weather.png"> --}}
+    {{!-- <link rel="stylesheet" href="/css/styles.css"> --}}
+    <link rel="stylesheet" href="/css/lesson.css">
+</head>
+<body>
+    <div class="main-content">
+        {{>header}}
+        <p> Welcome to your home page</p>
+
+        <form>
+            <input placeholder="Location">
+            <button>Search</button>
+        </form>
+        <pre><span id='message-1'></span><br><br><span id='message-2'></span>
+        </pre>
+      
+    </div>
+
+    
+    {{>footer}}
+
+    <script src="/js/app.js"></script>
+</body>
+</html>
