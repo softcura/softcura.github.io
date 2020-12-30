@@ -11,19 +11,19 @@ display: flex;
 }
 
 .nav-container {
-min-height: 15vh;
+height: 15%;
 background-color: dark-green;
 color: white;
 }
 
 .content {
-max-height: 70vh;
+max-height: 70%;
 background-color: black;
 color: white;
 }
 
 .footer-container {
-max-height: 15vh;
+max-height: 15%;
 background-color: dark-green;
 color: white;
 }
