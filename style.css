@@ -9,3 +9,19 @@ color: white;
 display: flex;
 flex-direction: column;
 }
+
+.nav-container{
+
+background-color: dark-green;
+color: white;
+}
+
+.content{
+background-color: black;
+color: white;
+}
+
+.footer-container{
+background-color: dark-green;
+color: white;
+}
