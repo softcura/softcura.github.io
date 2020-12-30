@@ -5,25 +5,26 @@ margin: 0;
 
 .main-content {
 background-color: black;
+max-height: 100vh;
 color: white;
 display: flex;
 
 }
 
 .nav-container {
-height: 150px;
+min-height: 15vh;
 background-color: dark-green;
 color: white;
 }
 
 .content {
-min-height: 200px;
+max-height: 70vh;
 background-color: black;
 color: white;
 }
 
 .footer-container {
-height: 150px;
+max-height: 15vh;
 background-color: dark-green;
 color: white;
 }
