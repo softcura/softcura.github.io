@@ -12,18 +12,18 @@ display: flex;
 
 .nav-container {
 height: 15%;
-background-color: dark-green;
+background-color: green;
 color: white;
 }
 
 .content {
-max-height: 70%;
+height: 70%;
 background-color: black;
 color: white;
 }
 
 .footer-container {
-max-height: 15%;
-background-color: dark-green;
+height: 15%;
+background-color: green;
 color: white;
 }
