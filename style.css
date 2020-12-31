@@ -18,6 +18,9 @@ height: 20vh;
 width: 100vw;
 background-color: dark-green;
 color: white;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 .content {
@@ -37,4 +40,7 @@ height: 20vh;
 width: 100vw;
 background-color: dark-green;
 color: white;
+display: flex;
+justify-content: center;
+align-items: center;
 }
