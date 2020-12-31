@@ -11,19 +11,19 @@ display: block;
 }
 
 .nav-container {
-height: 15%;
+height: 150px;
 background-color: green;
 color: white;
 }
 
 .content {
-height: 70%;
+height: 100VH;
 background-color: black;
 color: white;
 }
 
 .footer-container {
-height: 15%;
+height: 150px;
 background-color: green;
 color: white;
 }
