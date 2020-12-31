@@ -7,6 +7,7 @@ margin: 0;
 background-color: black;
 color: white;
 display: flex;
+width: 100%;
 flex-wrap: wrap;
 justify-content: space-between;
 align-items: center;
@@ -22,13 +23,14 @@ color: white;
 
 .content {
 height: 100vh;
+width: 100%;
 background-color: white;
 color: black;
 }
 
 .footer-container {
 height: 150px;
-width: 100vw;
+width: 100%;
 background-color: green;
 color: white;
 }
