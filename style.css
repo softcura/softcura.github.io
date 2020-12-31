@@ -16,20 +16,20 @@ align-items: center;
 .nav-container {
 height: 20vh;
 width: 100vw;
-background-color: green;
+background-color: dark-green;
 color: white;
 }
 
 .content {
 height: 100vh;
 width: 100vw;
-background-color: white;
-color: black;
+background-color: black;
+color: white;
 }
 
 .footer-container {
 height: 20vh;
 width: 100vw;
-background-color: green;
+background-color: dark-green;
 color: white;
 }
