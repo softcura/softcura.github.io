@@ -15,18 +15,20 @@ align-items: center;
 
 .nav-container {
 height: 150px;
+width: 100%;
 background-color: green;
 color: white;
 }
 
 .content {
 height: 100vh;
-background-color: black;
-color: white;
+background-color: white;
+color: black;
 }
 
 .footer-container {
 height: 150px;
+width: 100vw;
 background-color: green;
 color: white;
 }
