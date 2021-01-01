@@ -25,7 +25,7 @@ align-items: center;
 }
 
 .content {
-height: auto;
+height: 60vh;
 width: 100vw;
 background-color: black;
 color: white;
