@@ -16,7 +16,7 @@ align-items: center;
 .nav-container {
 height: 20vh;
 width: 100vw;
-background-color: dark-green;
+background-color: darkgreen;
 color: white;
 display: flex;
 justify-content: center;
@@ -38,7 +38,7 @@ align-items: center;
 .footer-container {
 height: 20vh;
 width: 100vw;
-background-color: dark-green;
+background-color: darkgreen;
 color: white;
 display: flex;
 justify-content: center;
